@@ -1,0 +1,7 @@
+*.o
+*.a
+ed/ed
+yacc/yacc
+mk/mk
+rc/rc
+rc/*.tab.*
