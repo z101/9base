@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 maxpnum=
 while [ "$1" != "" ]; do
